@@ -1,0 +1,6 @@
+{
+    "name": "@hexagonal-nest/user",
+    "dependencies": {
+        "@hexagonal-nest/core": "workspace:*"
+    }
+}
